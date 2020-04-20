@@ -22,4 +22,6 @@ Generate a  random cifar10 picture created with a mosaic of pictures from the sa
 > 1. run first /datasets/get_datasets.sh
 > 2. then the Jupyter notebook cifar10_mosaic.ipynb
 
-![horse-mosaic](./horse-mosaic.png?raw=true "horse-mosaic")
+![horse-mosaic](./horse-mosaic.png?raw=true "horse-mosaic") 
+
+Je rajoute une mdoficiation j'espère que Pierre est content 
